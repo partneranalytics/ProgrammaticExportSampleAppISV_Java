@@ -10,7 +10,7 @@ This is a sample app which shocases how to integrate with the Microsoft CMP part
 
 ## What does this sample app do?
 - The main aim of this app is to demonstrate how the **Programmatic Access APIs** can be programmatically called.
-- This is a very simple .NET core app which exposes a controller and a simple UI to call the controllers.
+- This is a very simple Spring Boot app which exposes a controller and a simple UI to call the controllers.
 - You can check the controller code to see how **Programmatic Access APIs** need to be called.
 - As of now, you can do the following in the sample app:
     1. Schedule reports
